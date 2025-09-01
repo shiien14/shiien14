@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 <br/><br/>
 
 ## :sunglasses: About Me
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjk1491)](https://solved.ac/jjk1491)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=inin9090)](https://solved.ac/jjk1491)
 <div align="left">
 
 </div>
@@ -41,6 +40,7 @@
 ## 🏅 Stats
 <div style="text-align: left;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiien14&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"/><br/> 
-<img src="https://github-readme-stats.vercel.app/api?username=shiien14&bg_color=180,00000000,&title_color=000000&text_color=000000"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=shiien14&bg_color=180,00000000,&title_color=000000&text_color=000000"/> <br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shiien14" alt="GitHub Streak" /></a>
 </div> 
 

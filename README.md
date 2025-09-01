@@ -1,6 +1,6 @@
 ## :sunglasses: ALGORITHM
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh010303)](https://solved.ac/inin9090)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=inin9090)](https://solved.ac/inin9090)
 <div align="left">
 
 </div>

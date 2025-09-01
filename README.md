@@ -1,13 +1,11 @@
-<br/><br/>
+## :sunglasses: ALGORITHM
 
-## :sunglasses: About Me
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=inin9090)](https://solved.ac/jjk1491)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh010303)](https://solved.ac/inin9090)
 <div align="left">
 
 </div>
 
-## :computer: Tech Stack
+## :computer: TECH STACK
 <div align="left">
   <img src="https://img.shields.io/badge/Java-265A8F.svg?style=flat-square&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white" />&nbsp
@@ -24,7 +22,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-232F3E.svg?style=flat-square&logo=PostgreSQL&logoColor=white" />&nbsp
 </div>
 
-## :hammer: Tools
+## :hammer: TOOLS
 <div align="left">
   <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black" />&nbsp
@@ -34,10 +32,10 @@
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=flat-square&logo=jupyter&logoColor=F37726" />&nbsp
 </div>
 
-## 🧑‍🎓Team Projects
+## 🧑‍🎓PROJECTS
 
 
-## 🏅 Stats
+## 🏅 STATS
 <div style="text-align: left;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiien14&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"/><br/> 
 <img src="https://github-readme-stats.vercel.app/api?username=shiien14&bg_color=180,00000000,&title_color=000000&text_color=000000"/> <br/>

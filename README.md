@@ -1,4 +1,4 @@
-# Hi, I'm Shiien (모시은) 👋
+# Hi, I'm Shiien 👋
 
 ## :computer: TECH STACK
 <div align="left">
